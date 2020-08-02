@@ -1,0 +1,248 @@
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_1;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_2;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_3;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_4;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_5;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_6;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_7;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_8;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_9;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_10;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_11;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_12;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_13;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_14;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_15;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_16;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_17;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_18;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_19;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_20;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_21;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_22;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_23;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_24;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_25;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_26;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_27;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_28;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_29;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_30;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_31;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_32;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_33;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_34;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_35;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_36;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_37;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_38;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_39;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_40;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_41;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_42;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_43;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_44;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_45;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_46;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_47;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_48;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_49;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_50;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_51;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_52;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_53;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_54;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_55;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_56;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_57;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_58;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_59;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_60;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_61;
+
+
+insert into gdw_tables.dw_attr_lstg_dtl 
+select * from dqrc.dw_attr_lstg_dtl_62;
+

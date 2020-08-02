@@ -1,0 +1,80 @@
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='01',hh='00') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/01/00';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='01',hh='03') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/01/03';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='01',hh='06') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/01/06';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='01',hh='09') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/01/09';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='01',hh='12') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/01/12';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='01',hh='15') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/01/15';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='01',hh='18') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/01/18';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='01',hh='21') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/01/21';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='02',hh='00') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/02/00';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='02',hh='03') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/02/03';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='02',hh='06') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/02/06';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='02',hh='09') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/02/09';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='02',hh='12') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/02/12';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='02',hh='15') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/02/15';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='02',hh='18') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/02/18';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='02',hh='21') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/02/21';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='03',hh='00') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/03/00';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='03',hh='03') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/03/03';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='03',hh='06') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/03/06';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='03',hh='09') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/03/09';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='03',hh='12') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/03/12';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='03',hh='15') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/03/15';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='03',hh='18') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/03/18';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='03',hh='21') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/03/21';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='04',hh='00') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/04/00';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='04',hh='03') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/04/03';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='04',hh='06') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/04/06';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='04',hh='09') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/04/09';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='04',hh='12') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/04/12';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='04',hh='15') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/04/15';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='04',hh='18') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/04/18';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='04',hh='21') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/04/21';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='05',hh='00') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/05/00';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='05',hh='03') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/05/03';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='05',hh='06') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/05/06';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='05',hh='09') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/05/09';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='05',hh='12') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/05/12';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='05',hh='15') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/05/15';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='05',hh='18') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/05/18';
+
+alter table zeta_dev_working.stg_hadoop_item_aspct_cl_w_sanwu add partition (yy='2020',mm='04',dd='05',hh='21') location 'hdfs://hercules/sys/edw/item_aspct_clssfctn/working/item_aspct_clss_ngc/2020/04/05/21';
